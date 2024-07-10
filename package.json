@@ -1,0 +1,19 @@
+{
+  "name": "api-call---jsonplaceholder",
+  "version": "1.0.0",
+  "description": "1 -Utilizando fetch API y async/await de javascript imprime en la consola del navegador los datos recibidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/API-Call---JSONPlaceholder.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/API-Call---JSONPlaceholder/issues"
+  },
+  "homepage": "https://github.com/ConchyP/API-Call---JSONPlaceholder#readme"
+}
