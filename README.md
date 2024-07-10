@@ -14,3 +14,7 @@ Data resources : https://jsonplaceholder.typicode.com/users
 
 ## GitHub pages
 
+https://conchyp.github.io/API-Call---JSONPlaceholder/
+
+![image](https://github.com/ConchyP/API-Call---JSONPlaceholder/assets/169025186/5038ddf9-e4f2-47cc-9eb7-ebc4993ca1cc)
+
